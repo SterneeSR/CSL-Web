@@ -1,4 +1,3 @@
-import { motion } from 'framer-motion';
 import { ArrowRight, ArrowDown } from 'lucide-react';
 import { HeroVisual } from './HeroVisual';
 import { Navbar } from '../layout/Navbar';
